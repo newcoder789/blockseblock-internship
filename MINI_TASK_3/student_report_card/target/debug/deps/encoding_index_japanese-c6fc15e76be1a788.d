@@ -1,0 +1,9 @@
+/mnt/c/Users/aryan/Desktop/TheFolder/some/blockchain-internship/blockseblock-internship/MINI_TASK_3/student_report_card/target/debug/deps/libencoding_index_japanese-c6fc15e76be1a788.rmeta: /home/aryan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/encoding-index-japanese-1.20141219.5/lib.rs /home/aryan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/encoding-index-japanese-1.20141219.5/jis0208.rs /home/aryan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/encoding-index-japanese-1.20141219.5/jis0212.rs
+
+/mnt/c/Users/aryan/Desktop/TheFolder/some/blockchain-internship/blockseblock-internship/MINI_TASK_3/student_report_card/target/debug/deps/libencoding_index_japanese-c6fc15e76be1a788.rlib: /home/aryan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/encoding-index-japanese-1.20141219.5/lib.rs /home/aryan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/encoding-index-japanese-1.20141219.5/jis0208.rs /home/aryan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/encoding-index-japanese-1.20141219.5/jis0212.rs
+
+/mnt/c/Users/aryan/Desktop/TheFolder/some/blockchain-internship/blockseblock-internship/MINI_TASK_3/student_report_card/target/debug/deps/encoding_index_japanese-c6fc15e76be1a788.d: /home/aryan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/encoding-index-japanese-1.20141219.5/lib.rs /home/aryan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/encoding-index-japanese-1.20141219.5/jis0208.rs /home/aryan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/encoding-index-japanese-1.20141219.5/jis0212.rs
+
+/home/aryan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/encoding-index-japanese-1.20141219.5/lib.rs:
+/home/aryan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/encoding-index-japanese-1.20141219.5/jis0208.rs:
+/home/aryan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/encoding-index-japanese-1.20141219.5/jis0212.rs:

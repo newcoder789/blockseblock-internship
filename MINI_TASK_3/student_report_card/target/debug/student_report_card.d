@@ -1,0 +1,1 @@
+/mnt/c/Users/aryan/Desktop/TheFolder/some/blockchain-internship/blockseblock-internship/MINI_TASK_3/student_report_card/target/debug/student_report_card: /mnt/c/Users/aryan/Desktop/TheFolder/some/blockchain-internship/blockseblock-internship/MINI_TASK_3/student_report_card/src/main.rs
